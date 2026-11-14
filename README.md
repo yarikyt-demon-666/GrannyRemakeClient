@@ -1,2 +1,2 @@
-# Infinity-days-for-GrannyRemake
+# Universal Cheat Granny Remake
 RU: читы для старшной и атмосферной игры GrannyRemake читы универсальные написаные на C++ они многофункциональные и пока они в бете версии
